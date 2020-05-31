@@ -125,7 +125,6 @@ div{
 .about {
 	display: inline-flex;
 	justify-content: center;
-	min-height: 65vh;
 	margin: 0;
 	padding: 0;
 	width: 100%;
@@ -207,7 +206,6 @@ div{
 .site-section {
 	display: block;
 	justify-content: center;
-	min-height: 65vh;
 	margin: 0;
 	padding: 0;
 	width: 100%;
@@ -223,7 +221,6 @@ div{
 .WorkUp {
 	display: inline-flex;
 	justify-content: center;
-	min-height: 65vh;
 	margin: 0;
 	padding: 0;
 	width: 100%;
